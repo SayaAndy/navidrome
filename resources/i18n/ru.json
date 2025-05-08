@@ -498,7 +498,8 @@
       "order": "По порядку",
       "orderLoop": "Повторять",
       "singleLoop": "Повторить один раз",
-      "shufflePlay": "Перемешать"
+      "shufflePlay": "Перемешать",
+      "disableAutoplay": "Отключить автовоспроизведение"
     }
   },
   "about": {

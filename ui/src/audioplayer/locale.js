@@ -21,6 +21,7 @@ const locale = (translate) => ({
     orderLoop: translate('player.playModeText.orderLoop'),
     singleLoop: translate('player.playModeText.singleLoop'),
     shufflePlay: translate('player.playModeText.shufflePlay'),
+    disableAutoplay: translate('player.playModeText.disableAutoplay'),
   },
 })
 

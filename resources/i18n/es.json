@@ -483,7 +483,8 @@
       "order": "En orden",
       "orderLoop": "Repetir",
       "singleLoop": "Repetir una",
-      "shufflePlay": "Aleatorio"
+      "shufflePlay": "Aleatorio",
+      "disableAutoplay": "Desactivar autoplay"
     }
   },
   "about": {

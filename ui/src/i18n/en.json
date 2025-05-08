@@ -500,7 +500,8 @@
       "order": "In order",
       "orderLoop": "Repeat",
       "singleLoop": "Repeat One",
-      "shufflePlay": "Shuffle"
+      "shufflePlay": "Shuffle",
+      "disableAutoplay": "Disable Autoplay"
     }
   },
   "about": {

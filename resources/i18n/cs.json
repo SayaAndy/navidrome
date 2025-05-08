@@ -425,7 +425,8 @@
             "order": "Popořadě",
             "orderLoop": "Opakovat",
             "singleLoop": "Opakovat jednou",
-            "shufflePlay": "Zamíchat"
+            "shufflePlay": "Zamíchat",
+            "disableAutoplay": "Vypnout automatické přehrávání"
         }
     },
     "about": {
